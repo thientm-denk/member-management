@@ -140,7 +140,7 @@ namespace NUnitTest
             // user "email": "admin@fstore.com",
             // "password": "admin@@"
             // Tra ve tai khoan admin nay neu dung
-            var actual = memberRepository.Login("admin@fstore.com", "admin@@");
+            var actual = memberRepository.Login("admin@fstore.com", "admin@");
             var expected = new MemberObject
             {
                 MemberID = 1,
@@ -155,6 +155,7 @@ namespace NUnitTest
             // sai tra ve null
             actual = memberRepository.Login("admin@fstore.com", "Ahihi");
             Assert.IsTrue(actual == null);
+            Assert.IsNull(actual);
 
 
         }
@@ -195,13 +196,16 @@ namespace NUnitTest
         #region Support Method
         public bool CompareTwoMemberObject(MemberObject A, MemberObject B)
         {
-            if (A.MemberID != B.MemberID) return false;
-            if (A.Email != B.Email) return false;
-            if (A.Password != B.Password) return false;
-            if (A.Country != B.Country) return false;
-            if (A.City != B.City) return false;
-            if (A.MemberName != B.MemberName) return false;
-            return true;
+            if (A != null && B != null) {
+                if (A.MemberID != B.MemberID) return false;
+                if (A.Email != B.Email) return false;
+                if (A.Password != B.Password) return false;
+                if (A.Country != B.Country) return false;
+                if (A.City != B.City) return false;
+                if (A.MemberName != B.MemberName) return false;
+                return true;
+            }
+            return false;
         }
         #endregion
 
