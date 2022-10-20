@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jgzP5XZ6t41ymGJIsZ0/lT++3WzX06GMPxqXfhBvJ5sIhCQKKuD8zR5fp5vTbyzR6ivGZWExP9cpJGZ1w9URbA==",
+  "dgSpecHash": "Afe3aUdipkmIPib25Co6kv8k4BGloYQUPfVf7yGbUZTcGaYkygtjoDmbfOIm82DsQ5nvNKW3J5r3OtFI4ChZ5A==",
   "success": true,
-  "projectFilePath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj",
+  "projectFilePath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataValidation\\DataValidation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

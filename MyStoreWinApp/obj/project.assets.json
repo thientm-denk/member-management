@@ -335,11 +335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\MyStoreWinApp\\MyStoreWinApp.csproj",
+      "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\MyStoreWinApp\\MyStoreWinApp.csproj",
       "projectName": "MyStoreWinApp",
-      "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\MyStoreWinApp\\MyStoreWinApp.csproj",
+      "projectPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\MyStoreWinApp\\MyStoreWinApp.csproj",
       "packagesPath": "C:\\Users\\denk\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\MyStoreWinApp\\obj\\",
+      "outputPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\MyStoreWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -356,14 +356,14 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj"
+            "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj"
             },
-            "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj"
+            "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataAccess\\DataAccess.csproj"
             },
-            "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {
-              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj"
+            "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {
+              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataValidation\\DataValidation.csproj"
             }
           }
         }

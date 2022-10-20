@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {}
+    "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {}
   },
   "projects": {
-    "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {
+    "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj",
+        "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataValidation\\DataValidation.csproj",
         "projectName": "DataValidation",
-        "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj",
+        "projectPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataValidation\\DataValidation.csproj",
         "packagesPath": "C:\\Users\\denk\\.nuget\\packages\\",
-        "outputPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\obj\\",
+        "outputPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataValidation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\denk\\AppData\\Roaming\\NuGet\\NuGet.Config",

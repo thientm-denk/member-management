@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oQIGeCQD2R91VTMwnMI8XsQEAEWPw6nASXfwaXizKvyaNQrpACzQ+jZFjXCkuHzRIdJ2DcHrGdAjjpkpHGDBrQ==",
+  "dgSpecHash": "XF5T0DtP7FaxDNzR9k2CMTKZExnxw3NCBgCkoyjpyZAV0Cv0csayHyjmoWdYAFUV30blCCdeFqiwImHQKxUk7Q==",
   "success": true,
-  "projectFilePath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj",
+  "projectFilePath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

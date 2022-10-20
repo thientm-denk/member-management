@@ -315,11 +315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\denk\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\obj\\",
+      "outputPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -336,8 +336,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj"
+            "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gi/aV6fYyJRqDTILe3iZbmJIMg949lfgx8ZsZD9I+5QhVyrqMugUCjnXfZyQrsjbWdWr6sNP+Twe5m2sCS8t7A==",
+  "dgSpecHash": "elDp5gXux52/0J4tQnPK0kvX3sWD7t/bl29pD6cF12/rjh5jfMK2xqRM47cwYnPAXtQSDf8HWSLHR4Z3vK/2Cw==",
   "success": true,
-  "projectFilePath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "projectFilePath": "E:\\Study\\2022_CN5\\SWT301\\ThuyetTrinh\\software-testing-with-nunit\\MyStoreWinApp\\MyStoreWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
