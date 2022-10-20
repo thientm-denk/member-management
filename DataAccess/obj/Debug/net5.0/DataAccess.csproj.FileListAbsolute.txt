@@ -1,0 +1,144 @@
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\SE160385\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\bin\Debug\net5.0\DataValidation.dll
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\denk\Desktop\SE160385\SE160385\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\bin\Debug\net5.0\DataValidation.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\bin\Debug\net5.0\appsettings.json
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\bin\Debug\net5.0\DataValidation.dll
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\Study\2022_CN5\SWT301\SWT\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataValidation.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\appsettings.json
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataValidation.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WY2zHc5vRNsvvKQTyWT5erKQn3b1vUrlZt9qW4FvJAYv156smfUfrwW9M/jvfNp25XHG6LQUEYjDtTSdSPo+eg==",
+  "success": true,
+  "projectFilePath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\denk\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

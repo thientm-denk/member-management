@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DataValidation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DataValidation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataValidation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataValidation/1.0.0": {
+      "type": "project",
+      "path": "../DataValidation/DataValidation.csproj",
+      "msbuildProject": "../DataValidation/DataValidation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DataValidation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\denk\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj",
+      "projectName": "BusinessObject",
+      "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj",
+      "packagesPath": "C:\\Users\\denk\\.nuget\\packages\\",
+      "outputPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\denk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {
+              "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

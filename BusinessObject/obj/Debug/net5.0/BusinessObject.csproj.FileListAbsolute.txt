@@ -1,0 +1,105 @@
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\SE160385\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\Study\2022_CN5\SWT301\SWT\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll

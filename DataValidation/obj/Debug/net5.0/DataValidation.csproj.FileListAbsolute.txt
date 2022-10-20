@@ -1,0 +1,84 @@
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\Assigment01_MemberManagement\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\MemberManagement\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\bin\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\DataValidation.dll
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+C:\Users\ADMIN\Downloads\SE160385\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\bin\Debug\net5.0\DataValidation.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\DataValidation.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+C:\Users\denk\Desktop\SE160385\Ass01Solution_ SE1608_TranMinhThien\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\bin\Debug\net5.0\DataValidation.dll
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\DataValidation.dll
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+E:\Study\2022_CN5\SWT301\SWT\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\bin\Debug\net5.0\DataValidation.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+D:\VSCode2022\project\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\bin\Debug\net5.0\DataValidation.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+E:\Study\2022_CN5\SWT301\Software-testing-with-nunit\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll

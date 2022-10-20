@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\NUnitTest\\NUnitTest.csproj": {}
+  },
+  "projects": {
+    "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj",
+        "projectName": "BusinessObject",
+        "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\denk\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\denk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {
+                "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\denk\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\denk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj",
+        "projectName": "DataValidation",
+        "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj",
+        "packagesPath": "C:\\Users\\denk\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\denk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\NUnitTest\\NUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\NUnitTest\\NUnitTest.csproj",
+        "projectName": "NUnitTest",
+        "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\NUnitTest\\NUnitTest.csproj",
+        "packagesPath": "C:\\Users\\denk\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\NUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\denk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\BusinessObject\\BusinessObject.csproj"
+              },
+              "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataAccess\\DataAccess.csproj"
+              },
+              "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj": {
+                "projectPath": "E:\\Study\\2022_CN5\\SWT301\\Software-testing-with-nunit\\DataValidation\\DataValidation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
