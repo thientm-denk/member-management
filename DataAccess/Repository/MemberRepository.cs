@@ -22,7 +22,7 @@ namespace DataAccess.Repository
         {
             if(id > 0)
             {
-                return MemberDAO.Instance.SearchMember(id + 1);
+                return MemberDAO.Instance.SearchMember(id);
             }
             else
             {
