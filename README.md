@@ -22,10 +22,10 @@
 
 <div align="center">
   
-  <img src="./Pictures/login.jpg" alt="Home" width="45%"></img> &nbsp;&nbsp; 
-  <img src="./Pictures/manager.jpg" alt="Manager" width="45%"></img> &nbsp;&nbsp; 
-  <img src="./Pictures/new.jpg" alt="Admin Post List" width="45%"></img> &nbsp;&nbsp;
-  <img src="./Pictures/update.jpg" alt="Checkout" width="45%"></img> &nbsp;&nbsp;
+  <img src="./Images/login.jpg" alt="Home" width="45%"></img> &nbsp;&nbsp; 
+  <img src="./Images/manager.jpg" alt="Manager" width="45%"></img> &nbsp;&nbsp; 
+  <img src="./Images/new.jpg" alt="Admin Post List" width="45%"></img> &nbsp;&nbsp;
+  <img src="./Images/update.jpg" alt="Checkout" width="45%"></img> &nbsp;&nbsp;
   
 </div>
   
@@ -52,7 +52,7 @@
 
 #| Name | Description
 -| ---- | -----------
-1| [Requirement document](#) | -
+1| [Requirement document](https://github.com/denkhotieu/software-testing-with-nunit/blob/main/Assignment_01_MemberManagement.pdf) | -
 
 
 
