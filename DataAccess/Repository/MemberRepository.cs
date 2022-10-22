@@ -9,6 +9,7 @@ namespace DataAccess.Repository
 {
     public class MemberRepository : IMemberRepository
     {
+
         public void AddMember(MemberObject member) => MemberDAO.Instance.AddMember(member);
         
         public void DeleteMember(int MemberID) => MemberDAO.Instance.Delete(MemberID);
@@ -21,7 +22,7 @@ namespace DataAccess.Repository
         {
             if(id > 0)
             {
-                return MemberDAO.Instance.SearchMember(id);
+                return MemberDAO.Instance.SearchMember(id + 1);
             }
             else
             {
