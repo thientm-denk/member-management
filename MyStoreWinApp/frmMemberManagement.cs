@@ -200,7 +200,8 @@ namespace MyStoreWinApp
                 memberRepository = this.memberRepository,
                 InsertOrUpdate = false,
                 memberInfo = member,
-                Text = "Update member info"
+                Text = "Update member info",
+                isAdmin = true
             };
 
             if (frmMemberDetails.ShowDialog() == DialogResult.OK)
@@ -384,6 +385,11 @@ namespace MyStoreWinApp
         }
 
         private void dgvMemberList_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void grSearch_Enter(object sender, EventArgs e)
         {
 
         }

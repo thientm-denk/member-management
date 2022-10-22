@@ -34,6 +34,7 @@ namespace MyStoreWinApp
                     frmMemberManagement = new frmMemberManagement
                     {
                         loginMember = loginMember,
+                        
                     };
                     frmMemberManagement.Closed += (s, args) => this.Close();
                     this.Hide();

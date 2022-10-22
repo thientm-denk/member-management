@@ -281,6 +281,7 @@ namespace MyStoreWinApp
             this.grSearch.TabIndex = 22;
             this.grSearch.TabStop = false;
             this.grSearch.Text = "Search";
+            this.grSearch.Enter += new System.EventHandler(this.grSearch_Enter);
             // 
             // radioByName
             // 

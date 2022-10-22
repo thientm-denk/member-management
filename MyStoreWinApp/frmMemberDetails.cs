@@ -31,6 +31,10 @@ namespace MyStoreWinApp
                 {
                     btnLogout.Visible = true;
                 }
+                else
+                {
+                    btnLogout.Visible = false;
+                }
                 btnUpdate.Visible = true;
                 txtMemberID.Enabled = false;
 
