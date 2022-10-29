@@ -1,6 +1,6 @@
 # Member Management With NUnit Test
 
-[![.NET](https://github.com/denkhotieu/software-testing-with-nunit/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/denkhotieu/software-testing-with-nunit/actions/workflows/dotnet.yml)
+[![CI with GitHub Actions using .Net and NUnit | © 2022 by denkhotieu](https://github.com/denkhotieu/software-testing-with-nunit/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/denkhotieu/software-testing-with-nunit/actions/workflows/dotnet.yml)
 
 :wave: Assignment 1 PRN112 (Basic Cross-Platform Application Programming With .NET) :wave:
 
