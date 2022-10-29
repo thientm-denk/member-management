@@ -1,4 +1,4 @@
-name: .NET
+name: CI with GitHub Actions using .NET and NUnit | © 2022 by denkhotieu
 
 on:
   push:
